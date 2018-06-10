@@ -1,0 +1,78 @@
+D:\Schoolwork\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\bin\Release\GUI2FullPrototype.Screens.dll
+D:\Schoolwork\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\bin\Release\GUI2FullPrototype.Screens.pdb
+D:\Schoolwork\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\Home_screen.baml
+D:\Schoolwork\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\Log_in_Screen.baml
+D:\Schoolwork\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\navbar.baml
+D:\Schoolwork\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\Simple Styles.baml
+D:\Schoolwork\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\SketchStyles.baml
+D:\Schoolwork\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\Home_screen.g.cs
+D:\Schoolwork\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\Log_in_Screen.g.cs
+D:\Schoolwork\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\Machine_Sanitation__After_clean.g.cs
+D:\Schoolwork\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\Machine_Sanitation__Error.g.cs
+D:\Schoolwork\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\Machine_Sanitation__Off.g.cs
+D:\Schoolwork\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\Manage_Meat_Contamination_2.g.cs
+D:\Schoolwork\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\Manage_Red_Meat_Contamination.g.cs
+D:\Schoolwork\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\Manage_waste.g.cs
+D:\Schoolwork\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\Manage_waste_1hr.g.cs
+D:\Schoolwork\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\Manage_waste_3hr.g.cs
+D:\Schoolwork\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\navbar.g.cs
+D:\Schoolwork\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\Screen_1.g.cs
+D:\Schoolwork\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\Screen_1_1.g.cs
+D:\Schoolwork\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\Screen_1_2.g.cs
+D:\Schoolwork\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\Schoolwork\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\GUI2FullPrototype.Screens_MarkupCompile.cache
+D:\Schoolwork\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\GUI2FullPrototype.Screens_MarkupCompile.lref
+D:\Schoolwork\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\Machine_Sanitation__After_clean.baml
+D:\Schoolwork\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\Machine_Sanitation__Error.baml
+D:\Schoolwork\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\Machine_Sanitation__Off.baml
+D:\Schoolwork\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\Manage_Meat_Contamination_2.baml
+D:\Schoolwork\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\Manage_Red_Meat_Contamination.baml
+D:\Schoolwork\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\Manage_waste.baml
+D:\Schoolwork\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\Manage_waste_1hr.baml
+D:\Schoolwork\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\Manage_waste_3hr.baml
+D:\Schoolwork\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\Screen_1.baml
+D:\Schoolwork\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\Screen_1_1.baml
+D:\Schoolwork\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\Screen_1_2.baml
+D:\Schoolwork\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\GUI2FullPrototype.Screens.g.resources
+D:\Schoolwork\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\GUI2FullPrototype.Screens.dll
+D:\Schoolwork\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\GUI2FullPrototype.Screens.pdb
+D:\Schoolwork\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\GUI2FullPrototypeScreens.csprojResolveAssemblyReference.cache
+D:\Schoolwork\2016 Sem 2\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\bin\Release\GUI2FullPrototype.Screens.dll
+D:\Schoolwork\2016 Sem 2\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\bin\Release\GUI2FullPrototype.Screens.pdb
+D:\Schoolwork\2016 Sem 2\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\GUI2FullPrototypeScreens.csprojResolveAssemblyReference.cache
+D:\Schoolwork\2016 Sem 2\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\Home_screen.baml
+D:\Schoolwork\2016 Sem 2\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\Log_in_Screen.baml
+D:\Schoolwork\2016 Sem 2\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\navbar.baml
+D:\Schoolwork\2016 Sem 2\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\Simple Styles.baml
+D:\Schoolwork\2016 Sem 2\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\SketchStyles.baml
+D:\Schoolwork\2016 Sem 2\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\Home_screen.g.cs
+D:\Schoolwork\2016 Sem 2\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\Log_in_Screen.g.cs
+D:\Schoolwork\2016 Sem 2\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\Machine_Sanitation__After_clean.g.cs
+D:\Schoolwork\2016 Sem 2\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\Machine_Sanitation__Error.g.cs
+D:\Schoolwork\2016 Sem 2\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\Machine_Sanitation__Off.g.cs
+D:\Schoolwork\2016 Sem 2\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\Manage_Meat_Contamination_2.g.cs
+D:\Schoolwork\2016 Sem 2\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\Manage_Red_Meat_Contamination.g.cs
+D:\Schoolwork\2016 Sem 2\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\Manage_waste.g.cs
+D:\Schoolwork\2016 Sem 2\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\Manage_waste_1hr.g.cs
+D:\Schoolwork\2016 Sem 2\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\Manage_waste_3hr.g.cs
+D:\Schoolwork\2016 Sem 2\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\navbar.g.cs
+D:\Schoolwork\2016 Sem 2\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\Screen_1.g.cs
+D:\Schoolwork\2016 Sem 2\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\Screen_1_1.g.cs
+D:\Schoolwork\2016 Sem 2\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\Screen_1_2.g.cs
+D:\Schoolwork\2016 Sem 2\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\Schoolwork\2016 Sem 2\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\GUI2FullPrototype.Screens_MarkupCompile.cache
+D:\Schoolwork\2016 Sem 2\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\GUI2FullPrototype.Screens_MarkupCompile.lref
+D:\Schoolwork\2016 Sem 2\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\Machine_Sanitation__After_clean.baml
+D:\Schoolwork\2016 Sem 2\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\Machine_Sanitation__Error.baml
+D:\Schoolwork\2016 Sem 2\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\Machine_Sanitation__Off.baml
+D:\Schoolwork\2016 Sem 2\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\Manage_Meat_Contamination_2.baml
+D:\Schoolwork\2016 Sem 2\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\Manage_Red_Meat_Contamination.baml
+D:\Schoolwork\2016 Sem 2\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\Manage_waste.baml
+D:\Schoolwork\2016 Sem 2\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\Manage_waste_1hr.baml
+D:\Schoolwork\2016 Sem 2\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\Manage_waste_3hr.baml
+D:\Schoolwork\2016 Sem 2\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\Screen_1.baml
+D:\Schoolwork\2016 Sem 2\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\Screen_1_1.baml
+D:\Schoolwork\2016 Sem 2\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\Screen_1_2.baml
+D:\Schoolwork\2016 Sem 2\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\GUI2FullPrototype.Screens.g.resources
+D:\Schoolwork\2016 Sem 2\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\GUI2FullPrototype.Screens.dll
+D:\Schoolwork\2016 Sem 2\INFOSYS220\GUI2FullPrototype\GUI2FullPrototype\GUI2FullPrototypeScreens\obj\Release\GUI2FullPrototype.Screens.pdb
