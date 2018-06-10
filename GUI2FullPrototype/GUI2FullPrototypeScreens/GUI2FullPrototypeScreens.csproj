@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ExpressionBlendVersion>12.0.60617.0</ExpressionBlendVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0e20e2c9-6350-4fce-9c7e-41e61fc60dc4}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GUI2FullPrototypeScreens</RootNamespace>
+    <AssemblyName>GUI2FullPrototype.Screens</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <PropertyGroup>
+    <ExpressionBlendPrototypingEnabled>true</ExpressionBlendPrototypingEnabled>
+    <ExpressionBlendPrototypeHarness>false</ExpressionBlendPrototypeHarness>
+  </PropertyGroup>
+  <ItemGroup>
+    <!--Reference Include="PresentationFramework.Aero" /-->
+    <Reference Include="System.Windows.Interactivity" />
+    <Reference Include="Microsoft.Expression.Interactions" />
+    <Reference Include="Microsoft.Expression.Prototyping.Interactivity" />
+    <Reference Include="Microsoft.Expression.Prototyping.Runtime" />
+    <Reference Include="Microsoft.Expression.Prototyping.SketchControls" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Home_screen.xaml.cs">
+      <DependentUpon>Home_screen.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Log_in_Screen.xaml.cs">
+      <DependentUpon>Log_in_Screen.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Machine_Sanitation__After_clean.xaml.cs">
+      <DependentUpon>Machine_Sanitation__After_clean.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Machine_Sanitation__Error.xaml.cs">
+      <DependentUpon>Machine_Sanitation__Error.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Machine_Sanitation__Off.xaml.cs">
+      <DependentUpon>Machine_Sanitation__Off.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Manage_Meat_Contamination_2.xaml.cs">
+      <DependentUpon>Manage_Meat_Contamination_2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Manage_Red_Meat_Contamination.xaml.cs">
+      <DependentUpon>Manage_Red_Meat_Contamination.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Manage_waste.xaml.cs">
+      <DependentUpon>Manage_waste.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Manage_waste_1hr.xaml.cs">
+      <DependentUpon>Manage_waste_1hr.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Manage_waste_3hr.xaml.cs">
+      <DependentUpon>Manage_waste_3hr.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="navbar.xaml.cs">
+      <DependentUpon>navbar.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Screen_1.xaml.cs">
+      <DependentUpon>Screen_1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Screen_1_1.xaml.cs">
+      <DependentUpon>Screen_1_1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Screen_1_2.xaml.cs">
+      <DependentUpon>Screen_1_2.xaml</DependentUpon>
+    </Compile>
+    <Page Include="Home_screen.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Log_in_Screen.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Machine_Sanitation__After_clean.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Machine_Sanitation__Error.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Machine_Sanitation__Off.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Manage_Meat_Contamination_2.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Manage_Red_Meat_Contamination.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Manage_waste.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Manage_waste_1hr.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Manage_waste_3hr.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="navbar.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Screen_1.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Screen_1_1.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Screen_1_2.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Simple Styles.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="SketchStyles.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Resource Include="14724072_1757974997800942_768197786_o.png" />
+    <Resource Include="Back Button.png" />
+    <Resource Include="Clean Cut Logo.png" />
+    <Resource Include="cow icon.png" />
+    <Resource Include="cow.png" />
+    <Resource Include="cutting management nar bar.png" />
+    <Resource Include="Cutting Management NavBar.png" />
+    <Resource Include="cutting management.png" />
+    <Resource Include="Dark Nav Bar.png" />
+    <Resource Include="Fonts\BuxtonSketch.ttf" />
+    <Resource Include="Fonts\SketchFlow Print.ttf" />
+    <Resource Include="Fonts\SegoeMarker.ttf" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="..\Properties\Version.cs">
+      <Link>Properties\Version.cs</Link>
+    </Compile>
+    <Resource Include="home screen background.jpg" />
+    <Resource Include="lamb x ray.jpg" />
+    <Resource Include="machine sanitation nav bar.png" />
+    <Resource Include="Machine Sanitation NavBar.png" />
+    <Resource Include="machine sanitation.png" />
+    <Resource Include="Main Menu NavBar.png" />
+    <Resource Include="manage meat contamination nav bar.png" />
+    <Resource Include="Manage Meat Contamination NavBar.png" />
+    <Resource Include="Manage Meat Contamination.png" />
+    <Resource Include="NavBar2.png" />
+    <Resource Include="pig xray.jpg" />
+    <Resource Include="Sketch.Flow" />
+    <Resource Include="spyce smaller.PNG" />
+    <Resource Include="Waste Management NavBar.png" />
+    <Resource Include="waste management.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath32)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	     Other similar extension points exist, see Microsoft.Common.targets.
+	<Target Name="BeforeBuild">
+	</Target>
+	<Target Name="AfterBuild">
+	</Target>
+	-->
+</Project>

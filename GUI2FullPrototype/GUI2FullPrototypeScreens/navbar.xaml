@@ -1,0 +1,53 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity" xmlns:pi="http://schemas.microsoft.com/prototyping/2010/interactivity"
+	mc:Ignorable="d"
+	x:Class="GUI2FullPrototypeScreens.navbar"
+	x:Name="UserControl"
+	d:DesignWidth="170" d:DesignHeight="748" Height="748" Width="170">
+
+	<Grid x:Name="LayoutRoot">
+		<Image Source="Dark Nav Bar.png" Stretch="Fill" Width="170" Height="748"/>
+		<Image Margin="31.045,27.552,28.955,610.448" Source="cow icon.png" Stretch="Fill" RenderTransformOrigin="0.206,0.265"/>
+		<Path Data="M153.5,381.5" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="1" Margin="153.5,381.5,0,0" Stretch="Fill" Stroke="Black" VerticalAlignment="Top" Width="1"/>
+		<Path Data="M389,355" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="1" Margin="389,355,-220,0" Stretch="Fill" Stroke="Black" VerticalAlignment="Top" Width="1"/>
+		<Image Margin="14.5,149.666,15.5,488.333" Source="Main Menu NavBar.png" Stretch="Fill" Width="140" Height="110">
+			<i:Interaction.Triggers>
+				<i:EventTrigger EventName="MouseLeftButtonDown">
+					<pi:NavigateToScreenAction TargetScreen="GUI2FullPrototypeScreens.Screen_1"/>
+				</i:EventTrigger>
+			</i:Interaction.Triggers>
+		</Image>
+		<Image Margin="14.5,266.5,15.5,371.5" Source="Waste Management NavBar.png" Stretch="Fill" Width="140" Height="110">
+			<i:Interaction.Triggers>
+				<i:EventTrigger EventName="MouseLeftButtonDown">
+					<pi:NavigateToScreenAction TargetScreen="GUI2FullPrototypeScreens.Manage_waste"/>
+				</i:EventTrigger>
+			</i:Interaction.Triggers>
+		</Image>
+		<Image Margin="14.5,382.5,15.5,255.5" Source="manage meat contamination nav bar.png" Stretch="Fill" Width="140" Height="110">
+			<i:Interaction.Triggers>
+				<i:EventTrigger EventName="MouseLeftButtonDown">
+					<pi:NavigateToScreenAction TargetScreen="GUI2FullPrototypeScreens.Manage_Red_Meat_Contamination"/>
+				</i:EventTrigger>
+			</i:Interaction.Triggers>
+		</Image>
+		<Image Margin="14.5,497.5,15.5,140.5" Source="machine sanitation nav bar.png" Stretch="Fill" Width="140" Height="110">
+			<i:Interaction.Triggers>
+				<i:EventTrigger EventName="MouseLeftButtonDown">
+					<pi:NavigateToScreenAction TargetScreen="GUI2FullPrototypeScreens.Screen_1_2"/>
+				</i:EventTrigger>
+			</i:Interaction.Triggers>
+		</Image>
+		<Image Margin="14.5,612.5,15.5,25.5" Source="cutting management nar bar.png" Stretch="Fill" Width="140" Height="110">
+			<i:Interaction.Triggers>
+				<i:EventTrigger EventName="MouseLeftButtonDown">
+					<pi:NavigateToScreenAction TargetScreen="GUI2FullPrototypeScreens.Screen_1_1"/>
+				</i:EventTrigger>
+			</i:Interaction.Triggers>
+		</Image>
+	</Grid>
+</UserControl>
